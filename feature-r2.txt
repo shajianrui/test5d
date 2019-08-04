@@ -3,3 +3,5 @@ LINE2
 
 
 r3 LINE5
+r3 LINE6
+r3 LINE7
